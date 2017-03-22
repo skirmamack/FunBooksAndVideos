@@ -1,0 +1,13 @@
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\FunBooksAndVideos.Tests.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\FunBooksAndVideos.Tests.pdb
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\obj\Debug\FunBooksAndVideos.Tests.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\obj\Debug\FunBooksAndVideos.Tests.pdb
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\Castle.Core.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\Moq.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\nunit.framework.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\Castle.Core.xml
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\Moq.xml
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\nunit.framework.xml
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\obj\Debug\FunBooksAndVideos.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\FunBooksAndVideos.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos.Tests\bin\Debug\FunBooksAndVideos.pdb

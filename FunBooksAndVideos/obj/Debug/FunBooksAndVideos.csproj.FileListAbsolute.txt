@@ -1,0 +1,4 @@
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos\bin\Debug\FunBooksAndVideos.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos\bin\Debug\FunBooksAndVideos.pdb
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos\obj\Debug\FunBooksAndVideos.dll
+D:\Programming\Jobs\WordRemit\FunBooksAndVideos\FunBooksAndVideos\obj\Debug\FunBooksAndVideos.pdb
